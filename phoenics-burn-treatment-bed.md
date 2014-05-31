@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monitor Defibrillator BIPHASIC+
+title: Burn Recovery Bed PHOENICS-MC
 ---
 
 <div class="container">
@@ -8,9 +8,9 @@ title: Monitor Defibrillator BIPHASIC+
     <div class="row">
 
         <div class="col-lg-12">
-            <h1 class="page-header">BIPHASIC+
-                <small>Monitor Defibrillator</small>
-            </h1> 
+            <h1 class="page-header">PHOENICS-MC
+                <small> Burn Recovery Bed</small>
+            </h1>
         </div>
 
     </div>
@@ -18,30 +18,7 @@ title: Monitor Defibrillator BIPHASIC+
     <div class="row">
 
         <div class="col-md-8">
-            <div class="product tab-content">
-              <div class="tab-pane active" id="prod-img1"><img class="img-responsive" src="/img/product-biphazik-defibrillator.jpg"></div>
-              <div class="tab-pane" id="prod-img2"><img class="img-responsive" src="/img/product-biphazik-defibrillator-2.jpg"></div>
-              <div class="tab-pane" id="prod-img3"><img class="img-responsive" src="/img/product-biphazik-defibrillator-3.jpg"></div>
-            </div>
-            
-            <div class="row">
-              <div class="col-lg-2 col-lg-offset-3 col-md-3 col-md-offset-1 col-xs-4 thumb">
-                  <a class="thumbnail" href="#prod-img1" data-toggle="tab">
-                      <img class="img-responsive" src="/img/product-biphazik-defibrillator-thumb.jpg">
-                  </a>
-              </div>
-              <div class="col-lg-2 col-md-3 col-xs-4 thumb">
-                  <a class="thumbnail" href="#prod-img2" data-toggle="tab">
-                      <img class="img-responsive" src="/img/product-biphazik-defibrillator-2-thumb.jpg">
-                  </a>
-              </div>
-              <div class="col-lg-2 col-md-3 col-xs-4 thumb">
-                  <a class="thumbnail" href="#prod-img3" data-toggle="tab">
-                      <img class="img-responsive" src="/img/product-biphazik-defibrillator-3-thumb.jpg">
-                  </a>
-              </div>
-            </div>
-            
+            <img class="img-responsive" src="/img/product-phoenix-burn-recovery-bed.jpg">
         </div>
 
         <div class="col-md-4">
@@ -55,19 +32,20 @@ title: Monitor Defibrillator BIPHASIC+
                 <li>Adipiscing Elit</li>
             </ul>
             
-            <p class="text-center ">Need one?</p>
+            <p class="text-center hidden-xs">Need one?</p>
             <p class="text-center hidden-xs hidden-sm"><a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#infoModal" title="Order Device" href="#" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;Order&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
             <p class="text-center hidden-md hidden-lg"><a class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#infoModal" title="Order Device" href="#" target="_blank">Order</a></p>
-            
+                            
         </div>
+
     </div>
-    
-    
+
+
     <!-- Product Details Tabs -->
     <!-- example from: http://www.cardiacscience.com/products/powerheart-g3-aed-plus/ -->
 
     <div class="row">
-    
+        
         <br />
 
         <div class="col-lg-12">
@@ -148,3 +126,4 @@ title: Monitor Defibrillator BIPHASIC+
 
 </div>
 <!-- /.container -->
+

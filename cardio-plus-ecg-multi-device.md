@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monitor Defibrillator BIPHASIC+
+title: The Diagnostic Automated ECG Multi-Device CARDIO+
 ---
 
 <div class="container">
@@ -8,9 +8,9 @@ title: Monitor Defibrillator BIPHASIC+
     <div class="row">
 
         <div class="col-lg-12">
-            <h1 class="page-header">BIPHASIC+
-                <small>Monitor Defibrillator</small>
-            </h1> 
+            <h1 class="page-header">CARDIO+
+                <small>The Diagnostic Automated ECG Multi-Device</small>
+            </h1>
         </div>
 
     </div>
@@ -18,30 +18,7 @@ title: Monitor Defibrillator BIPHASIC+
     <div class="row">
 
         <div class="col-md-8">
-            <div class="product tab-content">
-              <div class="tab-pane active" id="prod-img1"><img class="img-responsive" src="/img/product-biphazik-defibrillator.jpg"></div>
-              <div class="tab-pane" id="prod-img2"><img class="img-responsive" src="/img/product-biphazik-defibrillator-2.jpg"></div>
-              <div class="tab-pane" id="prod-img3"><img class="img-responsive" src="/img/product-biphazik-defibrillator-3.jpg"></div>
-            </div>
-            
-            <div class="row">
-              <div class="col-lg-2 col-lg-offset-3 col-md-3 col-md-offset-1 col-xs-4 thumb">
-                  <a class="thumbnail" href="#prod-img1" data-toggle="tab">
-                      <img class="img-responsive" src="/img/product-biphazik-defibrillator-thumb.jpg">
-                  </a>
-              </div>
-              <div class="col-lg-2 col-md-3 col-xs-4 thumb">
-                  <a class="thumbnail" href="#prod-img2" data-toggle="tab">
-                      <img class="img-responsive" src="/img/product-biphazik-defibrillator-2-thumb.jpg">
-                  </a>
-              </div>
-              <div class="col-lg-2 col-md-3 col-xs-4 thumb">
-                  <a class="thumbnail" href="#prod-img3" data-toggle="tab">
-                      <img class="img-responsive" src="/img/product-biphazik-defibrillator-3-thumb.jpg">
-                  </a>
-              </div>
-            </div>
-            
+            <img class="img-responsive" src="/img/product-cardio-ecg-multi-device.jpg">
         </div>
 
         <div class="col-md-4">
@@ -55,13 +32,13 @@ title: Monitor Defibrillator BIPHASIC+
                 <li>Adipiscing Elit</li>
             </ul>
             
-            <p class="text-center ">Need one?</p>
+            <p class="text-center hidden-xs">Need one?</p>
             <p class="text-center hidden-xs hidden-sm"><a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#infoModal" title="Order Device" href="#" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;Order&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
             <p class="text-center hidden-md hidden-lg"><a class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#infoModal" title="Order Device" href="#" target="_blank">Order</a></p>
-            
+                                            
         </div>
+
     </div>
-    
     
     <!-- Product Details Tabs -->
     <!-- example from: http://www.cardiacscience.com/products/powerheart-g3-aed-plus/ -->
@@ -97,6 +74,13 @@ title: Monitor Defibrillator BIPHASIC+
                 <div class="tab-pane fade" id="service-three">
                     <i class="fa fa-magic pull-left fa-4x"></i>
                     <p>Vestibulum laoreet molestie urna ac vehicula. Phasellus laoreet semper ipsum ac gravida. Sed in varius tortor. Nullam blandit in neque quis aliquet. Fusce volutpat pellentesque sem non convallis. Suspendisse sit amet magna pulvinar, gravida mauris eu, tincidunt massa. Nam lectus mi, viverra non quam nec, mollis malesuada dolor. Vivamus hendrerit nunc interdum turpis egestas, a lobortis odio consequat. Fusce posuere purus quis ligula faucibus lacinia. Curabitur sit amet congue dolor. Duis dapibus hendrerit nunc et gravida. Phasellus mollis, lectus quis ornare aliquam, arcu orci posuere lectus, vehicula bibendum sem ante quis lacus.</p>
+                    <p>The divice comes in 4 different options, could be set separately or in combination:</p>
+                    <ul>
+                      <li><strong>Cardio+.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>
+                      <li><strong>Spiro.</strong>  Lorem ipsum dolor sit amet, consectetur adipiscing...</li>
+                      <li><strong>Reo.</strong>  Lorem ipsum dolor sit amet, consectetur...</li>
+                      <li><strong>Phono.</strong>  Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                    </ul>
                 </div>
                 <div class="tab-pane fade" id="service-four">
                     <i class="fa fa-flask pull-left fa-4x"></i>
@@ -148,3 +132,4 @@ title: Monitor Defibrillator BIPHASIC+
 
 </div>
 <!-- /.container -->
+
