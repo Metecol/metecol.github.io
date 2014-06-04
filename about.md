@@ -18,7 +18,7 @@ title: About
     <div class="row">
 
         <div class="col-md-6">
-            <img class="img-responsive" src="/img/about-company.jpg">
+            <img class="img-responsive" src="/img/metecol-core-team.jpg">
         </div>
         <div class="col-md-6">
             <h2>Welcome to 'Metecol'</h2>
@@ -37,8 +37,8 @@ title: About
         </div>
 
         <div class="col-sm-4">
-            <img class="img-responsive" src="/img/team-steve-jobs.jpg">
-            <h3>Steve Jobs
+            <img class="img-responsive" src="/img/ceo_verbnyi_nikolai_semenovitch.JPG">
+            <h3>Nikolai Verbnyi
                 <small>CEO</small>
             </h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
@@ -49,9 +49,9 @@ title: About
         </div>
 
         <div class="col-sm-4">
-            <img class="img-responsive" src="/img/team-mark-zuckerberg.jpg">
-            <h3>Mark Zuckerberg
-                <small></small>
+            <img class="img-responsive" src="/img/team-meshkov-viktor-vasilievitch.jpg">
+            <h3>Viktor Meshkov
+                <small>Chief Engineer</small>
             </h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
             <ul class="list-unstyled list-inline list-social-icons">
@@ -63,9 +63,9 @@ title: About
         </div>
 
         <div class="col-sm-4">
-            <img class="img-responsive" src="/img/team-bill-gates.jpg">
-            <h3>Bill Gates
-                <small>CFO</small>
+            <img class="img-responsive" src="/img/team_volodymyr.jpg">
+            <h3>Volodymyr Murashkov
+                <small>Chief Technology</small>
             </h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
             <ul class="list-unstyled list-inline list-social-icons">
@@ -79,9 +79,9 @@ title: About
         </div>
 
         <div class="col-sm-4">
-            <img class="img-responsive" src="http://placehold.it/750x450">
-            <h3>Mark Vital
-                <small>CMO</small>
+            <img class="img-responsive" src="/img/team_volodymyr_shyshov.jpg">
+            <h3>Volodymyr Shyshov
+                <small>CTO</small>
             </h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
             <ul class="list-unstyled list-inline list-social-icons">
@@ -97,8 +97,8 @@ title: About
         </div>
 
         <div class="col-sm-4">
-            <img class="img-responsive" src="http://placehold.it/750x450">
-            <h3>Sergio Shyshov
+            <img class="img-responsive" src="/img/team-shyshov-sergey-yurievitch.jpg">
+            <h3>Sergey Shyshov
                 <small>Engineering</small>
             </h3>
             <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
@@ -115,6 +115,24 @@ title: About
         </div>
 
         <div class="col-sm-4">
+            <img class="img-responsive" src="/img/team-evgenii.jpg">
+            <h3>Evgenii
+                <small>Support</small>
+            </h3>
+            <p>What does this team member do? Keep it short! This is also a great spot for social links!</p>
+            <ul class="list-unstyled list-inline list-social-icons">
+                <li class="tooltip-social facebook-link"><a href="https://www.facebook.com/vital.anna" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                </li>
+                <li class="tooltip-social linkedin-link"><a href="http://www.linkedin.com/in/annavital" data-toggle="tooltip" data-placement="top" title="LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                </li>
+                <li class="tooltip-social twitter-link"><a href="https://twitter.com/annavitals" data-toggle="tooltip" data-placement="top" title="Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                </li>
+                <li class="tooltip-social google-plus-link"><a href="#google-plus-profile" data-toggle="tooltip" data-placement="top" title="Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                </li>
+            </ul>
+        </div>
+        
+        <!-- div class="col-sm-4">
             <img class="img-responsive" src="http://placehold.it/750x450">
             <h3>Anna Vital
                 <small>Legal Director</small>
@@ -130,7 +148,7 @@ title: About
                 <li class="tooltip-social google-plus-link"><a href="#google-plus-profile" data-toggle="tooltip" data-placement="top" title="Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </li>
             </ul>
-        </div>
+        </div -->
 
     </div>
 
