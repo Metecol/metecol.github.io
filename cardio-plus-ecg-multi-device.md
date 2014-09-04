@@ -18,8 +18,35 @@ title: The Diagnostic Automated ECG Multi-Device CARDIO+
     <div class="row">
 
         <div class="col-md-8">
-            <img class="img-responsive" src="/img/product-cardio-ecg-multi-device.jpg">
+            <div class="product tab-content">
+              <div class="tab-pane active" id="prod-img1"><img class="img-responsive" src="/img/product-cardio-ecg-multi-device.jpg"></div>
+              <div class="tab-pane" id="prod-img2"><img class="img-responsive" src="/img/product-cardio-ecg-multi-device-front.jpg"></div>
+              <div class="tab-pane" id="prod-img3"><img class="img-responsive" src="/img/product-cardio-ecg-multi-device-equipment.jpg"></div>
+            </div>
+            
+            <div class="row">
+              <div class="col-lg-2 col-lg-offset-3 col-md-3 col-md-offset-1 col-xs-4 thumb">
+                  <a class="thumbnail" href="#prod-img1" data-toggle="tab">
+                      <img class="img-responsive" src="/img/product-cardio-ecg-multi-device-thumb.jpg">
+                  </a>
+              </div>
+              <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                  <a class="thumbnail" href="#prod-img2" data-toggle="tab">
+                      <img class="img-responsive" src="/img/product-cardio-ecg-multi-device-front-thumb.jpg">
+                  </a>
+              </div>
+              <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                  <a class="thumbnail" href="#prod-img3" data-toggle="tab">
+                      <img class="img-responsive" src="/img/product-cardio-ecg-multi-device-equipment-thumb.JPG">
+                  </a>
+              </div>
+            </div>
+            
         </div>
+        
+        <!-- div class="col-md-8">
+            <img class="img-responsive" src="/img/product-cardio-ecg-multi-device.jpg">
+        </div -->
 
         <div class="col-md-4">
             <h3>Product Description</h3>

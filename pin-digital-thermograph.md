@@ -17,8 +17,32 @@ title: Pin Digital Thermograph PDT-1
 
     <div class="row">
 
+
         <div class="col-md-8">
-            <img class="img-responsive" src="/img/product-pdt-digital-thermograph.jpg">
+            <div class="product tab-content">
+              <div class="tab-pane active" id="prod-img1"><img class="img-responsive" src="/img/product-pdt-digital-thermograph.jpg"></div>
+              <div class="tab-pane" id="prod-img2"><img class="img-responsive" src="/img/product-pdt-digital-thermograph-front.jpg"></div>              
+              <div class="tab-pane" id="prod-img3"><img class="img-responsive" src="/img/product-pdt-digital-thermograph-in-use.jpg"></div>
+            </div>
+            
+            <div class="row">
+              <div class="col-lg-2 col-lg-offset-3 col-md-3 col-md-offset-1 col-xs-4 thumb">
+                  <a class="thumbnail" href="#prod-img1" data-toggle="tab">
+                      <img class="img-responsive" src="/img/product-pdt-digital-thermograph-thumb.jpg">
+                  </a>
+              </div>
+              <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                  <a class="thumbnail" href="#prod-img2" data-toggle="tab">
+                      <img class="img-responsive" src="/img/product-pdt-digital-thermograph-front-thumb.jpg">
+                  </a>
+              </div>
+              <div class="col-lg-2 col-md-3 col-xs-4 thumb">
+                  <a class="thumbnail" href="#prod-img3" data-toggle="tab">
+                      <img class="img-responsive" src="/img/product-pdt-digital-thermograph-in-use-thumb.jpg">
+                  </a>
+              </div>
+            </div>
+            
         </div>
 
         <div class="col-md-4">
