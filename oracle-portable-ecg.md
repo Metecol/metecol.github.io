@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Burn Recovery Bed PHOENICS-MC
+title: Portable ECG ORACLE
 ---
 
 <div class="container">
@@ -8,8 +8,8 @@ title: Burn Recovery Bed PHOENICS-MC
     <div class="row">
 
         <div class="col-lg-12">
-            <h1 class="page-header">PHOENICS-MC
-                <small> Burn Recovery Bed</small>
+            <h1 class="page-header">ORACLE
+                <small> Portable ECG - coming soon</small>
             </h1>
         </div>
 
@@ -22,6 +22,7 @@ title: Burn Recovery Bed PHOENICS-MC
         </div>
 
         <div class="col-md-4">
+             <p class="text-center hidden-md hidden-lg"><a class="btn btn-primary btn-lg btn-block order-btn" data-toggle="modal" data-target="#infoModal" data-prod-type="oracle" title="Order Device" href="#" target="_blank">Pre-order</a></p>
             <h3>Product Description</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
             <h3>Product Details</h3>
@@ -33,9 +34,7 @@ title: Burn Recovery Bed PHOENICS-MC
             </ul>
             
             <p class="text-center hidden-xs">Need one?</p>
-            <p class="text-center hidden-xs hidden-sm"><a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#infoModal" title="Order Device" href="#" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;Order&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
-            <p class="text-center hidden-md hidden-lg"><a class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#infoModal" title="Order Device" href="#" target="_blank">Order</a></p>
-                            
+            <p class="text-center hidden-xs hidden-sm"><a class="btn btn-primary btn-lg order-btn" data-toggle="modal" data-target="#infoModal" data-prod-type="oracle" title="Order Device" href="#" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;Pre-order&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
         </div>
 
     </div>

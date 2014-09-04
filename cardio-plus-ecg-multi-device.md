@@ -43,10 +43,6 @@ title: The Diagnostic Automated ECG Multi-Device CARDIO+
             </div>
             
         </div>
-        
-        <!-- div class="col-md-8">
-            <img class="img-responsive" src="/img/product-cardio-ecg-multi-device.jpg">
-        </div -->
 
         <div class="col-md-4">
             <h3>Product Description</h3>
@@ -60,8 +56,8 @@ title: The Diagnostic Automated ECG Multi-Device CARDIO+
             </ul>
             
             <p class="text-center hidden-xs">Need one?</p>
-            <p class="text-center hidden-xs hidden-sm"><a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#infoModal" title="Order Device" href="#" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;Order&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
-            <p class="text-center hidden-md hidden-lg"><a class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#infoModal" title="Order Device" href="#" target="_blank">Order</a></p>
+            <p class="text-center hidden-xs hidden-sm"><a class="btn btn-primary btn-lg order-btn" data-toggle="modal" data-target="#infoModal" data-prod-type="cardio" title="Order Device" href="#" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;Order&nbsp;&nbsp;&nbsp;&nbsp;</a></p>
+            <p class="text-center hidden-md hidden-lg"><a class="btn btn-primary btn-lg btn-block order-btn" data-toggle="modal" data-target="#infoModal" data-prod-type="cardio" title="Order Device" href="#" target="_blank">Order</a></p>
                                             
         </div>
 

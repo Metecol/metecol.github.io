@@ -49,10 +49,10 @@ title: Products
         </div>
 
         <div class="col-md-6 portfolio-item">
-            <a href="/phoenics-burn-treatment-bed">
+            <a href="/oracle-portable-ecg">
                 <img class="img-responsive" src="/img/product-phoenix-burn-recovery-bed.jpg">
             </a>
-            <h3><a href="/phoenics-burn-treatment-bed">PHOENICS-MC Burn Recovery Bed</a>
+            <h3><a href="/oracle-portable-ecg">ORACLE Portable ECG - <small>coming soon</small></a>
             </h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
         </div>
