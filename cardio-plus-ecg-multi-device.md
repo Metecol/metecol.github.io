@@ -37,7 +37,7 @@ title: The Diagnostic Automated ECG Multi-Device CARDIO+
               </div>
               <div class="col-lg-2 col-md-3 col-xs-4 thumb">
                   <a class="thumbnail" href="#prod-img3" data-toggle="tab">
-                      <img class="img-responsive" src="/img/product-cardio-ecg-multi-device-equipment-thumb.JPG">
+                      <img class="img-responsive" src="/img/product-cardio-ecg-multi-device-equipment-thumb.jpg">
                   </a>
               </div>
             </div>
